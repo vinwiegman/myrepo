@@ -8,3 +8,6 @@ A line I wrote on my local computer
 ## Chroma-based and timbre-based self-similarity matrices of the intro
 ![image](chrmaselfmatr.png)
 ![image](timbreselfmatr.png)
+
+## Keys analysis of the intro
+![image](keytemplatintro.png)
